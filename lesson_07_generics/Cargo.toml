@@ -1,0 +1,6 @@
+[package]
+name = "lesson_07_generics"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
